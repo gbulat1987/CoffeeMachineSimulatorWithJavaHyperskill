@@ -1,0 +1,86 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine Simulator with Java/*
+!/Coffee Machine Simulator with Java/task/
+/Coffee Machine Simulator with Java/task/*
+!/Coffee Machine Simulator with Java/task/src
+
+# Project exclude paths
+/Topics/Array/Initializing an array of longs/out/
+/Topics/Array/Initializing an array of longs/out/production/classes/
+/Topics/Arrays as parameters/Application as a class/out/
+/Topics/Arrays as parameters/Application as a class/out/production/classes/
+/Topics/Break and continue. Branching/Bus tour/out/
+/Topics/Break and continue. Branching/Bus tour/out/production/classes/
+/Topics/Calling methods/Area of parallelogram/out/
+/Topics/Calling methods/Area of parallelogram/out/production/classes/
+/Topics/Calling methods/Call me awesome/out/
+/Topics/Calling methods/Call me awesome/out/production/classes/
+/Topics/Calling methods/Product and rounded average of two integers/out/
+/Topics/Calling methods/Product and rounded average of two integers/out/production/classes/
+/Topics/Declaring methods/Calculating factorials/out/
+/Topics/Declaring methods/Calculating factorials/out/production/classes/
+/Topics/Declaring methods/Sum of numbers in the range/out/
+/Topics/Declaring methods/Sum of numbers in the range/out/production/classes/
+/Topics/Functional decomposition/Calculator with four methods/out/
+/Topics/Functional decomposition/Calculator with four methods/out/production/classes/
+/Topics/Functional decomposition/Math wizardry in your pocket/out/
+/Topics/Functional decomposition/Math wizardry in your pocket/out/production/classes/
+/Topics/Functional decomposition/Method createFullName/out/
+/Topics/Functional decomposition/Method createFullName/out/production/classes/
+/Topics/Getters and setters/Creating a class for a book with private properties/out/
+/Topics/Getters and setters/Creating a class for a book with private properties/out/production/classes/
+/Topics/Initializing new instances. Constructor/Geometric cube/out/
+/Topics/Initializing new instances. Constructor/Geometric cube/out/production/classes/
+/Topics/Instance methods/Complex numbers/out/
+/Topics/Instance methods/Complex numbers/out/production/classes/
+/Topics/Instance methods/Counter/out/
+/Topics/Instance methods/Counter/out/production/classes/
+/Topics/Instance methods/In a box/out/
+/Topics/Instance methods/In a box/out/production/classes/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/
+/Topics/Iterating over arrays/Check if an array is sorted ascending/out/production/classes/
+/Topics/Iterating over arrays/Individual taxes/out/
+/Topics/Iterating over arrays/Individual taxes/out/production/classes/
+/Topics/Iterating over arrays/The sum of array elements/out/
+/Topics/Iterating over arrays/The sum of array elements/out/production/classes/
+/Topics/Method  main/Fixing the main method/out/
+/Topics/Method  main/Fixing the main method/out/production/classes/
+/Topics/Method  main/Print  Hello, Java/out/
+/Topics/Method  main/Print  Hello, Java/out/production/classes/
+/Topics/Method  main/Print  We are robots/out/
+/Topics/Method  main/Print  We are robots/out/production/classes/
+/Topics/Multiple conditions  switch/Day of the week from an integer/out/
+/Topics/Multiple conditions  switch/Day of the week from an integer/out/production/classes/
+/Topics/Multiple conditions  switch/Decoding traffic signal colors from input codes/out/
+/Topics/Multiple conditions  switch/Decoding traffic signal colors from input codes/out/production/classes/
+/Topics/Multiple conditions  switch/From string to a number/out/
+/Topics/Multiple conditions  switch/From string to a number/out/production/classes/
+/Topics/Multiple conditions  switch/Harry Potter/out/
+/Topics/Multiple conditions  switch/Harry Potter/out/production/classes/
+/Topics/Objects and their properties/Null or not/out/
+/Topics/Objects and their properties/Null or not/out/production/classes/
+/Topics/Primitive and reference types/Creating a primitive/out/
+/Topics/Primitive and reference types/Creating a primitive/out/production/classes/
+/Topics/Primitive and reference types/Creating a reference type/out/
+/Topics/Primitive and reference types/Creating a reference type/out/production/classes/
+/Topics/Reading user's input with Scanner/Print strings in the reverse order/out/
+/Topics/Reading user's input with Scanner/Print strings in the reverse order/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
+/Topics/Static members/Project constants and methods/out/
+/Topics/Static members/Project constants and methods/out/production/classes/
+/Topics/Type casting/Converting and printing double values as integers/out/
+/Topics/Type casting/Converting and printing double values as integers/out/production/classes/
+/Topics/While and do-while loops/The largest element of a sequence/out/
+/Topics/While and do-while loops/The largest element of a sequence/out/production/classes/
